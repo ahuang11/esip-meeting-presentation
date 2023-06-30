@@ -1,0 +1,6 @@
+duckdb
+hvplot
+panel
+pandas
+datashader
+geoviews
