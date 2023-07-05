@@ -6,6 +6,7 @@ dependencies:
   - pip:
     - panel
     - duckdb
+    - datashader
     - fastparquet
     - pandas
     - geoviews
